@@ -1,0 +1,29 @@
+[project]
+name = "big-data-exam"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "pendulum>=3.0.0",
+    "pyarrow>=19.0.1",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.2",
+    "seaborn>=0.13.2",
+    "ta>=0.11.0",
+    "torch>=2.6.0",
+    "tqdm>=4.67.1",
+    "xgboost>=3.0.0",
+    "yfinance>=0.2.54",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+    "rich>=13.9.4",
+    "ruff>=0.11.0",
+]
