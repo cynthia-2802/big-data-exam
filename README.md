@@ -94,8 +94,8 @@ If you use this code or findings in your work, please cite:
 
 ```
 @article{normalization_norwegian_stock,
-  title={Impact of Normalization Techniques on Machine Learning Models for Norwegian Stock Market Prediction},
-  author={Your Name},
+  title={Normalization in Financial Machine Learning: Comparative Analysis of Techniques for Norwegian Market Prediction},
+  author={},
   journal={},
   year={2025},
   volume={},
